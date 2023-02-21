@@ -1,0 +1,14 @@
+
+
+Version:	3.14
+CmdLine:	C:\Users\Aiken (pvt) ltd\Desktop\exe\sample.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Aiken (pvt) ltd\Desktop\exe\.
+Java min ver:	
+Java max ver:	
+Bundled JRE(s):	bin\jre1.8.0_291
+Check launcher:	C:\Users\Aiken (pvt) ltd\Desktop\exe\bin\jre1.8.0_291\bin\javaw.exe (OK)
+Launcher:	C:\Users\Aiken (pvt) ltd\Desktop\exe\bin\jre1.8.0_291\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Aiken (pvt) ltd\Desktop\exe\sample.exe"
+Args length:	54/32768 chars
+Exit code:	0
